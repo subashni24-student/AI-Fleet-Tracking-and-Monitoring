@@ -1,0 +1,5 @@
+vehicle_id,driver,speed,fuel,latitude,longitude,status
+V001,Arun,65,72,13.0827,80.2707,Active
+V002,Kumar,45,58,13.0674,80.2376,Active
+V003,Ravi,80,35,13.0475,80.2090,Warning
+V004,Mani,50,81,13.0878,80.2785,Active
