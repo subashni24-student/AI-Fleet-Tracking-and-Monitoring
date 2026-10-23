@@ -1,6 +1,6 @@
 import csv
 
-file_path = "data/vehicle_data.csv"
+file_path = "src/vehicle_data.csv"
 
 with open(file_path, "r") as file:
     data = list(csv.DictReader(file))

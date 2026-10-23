@@ -22,5 +22,4 @@ with open(file_path, "r") as file:
 
         if fuel < 30:
             print("Alert: Low Fuel!")
-
         print("----------------")
